@@ -1,4 +1,4 @@
-*{
+.wht{
 	color: #fff;
 }
 .bgrn{
@@ -17,4 +17,15 @@
 }
 .1{
 	align-content: center;
+}
+.logo{
+	/*margin-top:px;*/
+	height: 65px;
+	width: 170px;
+}
+.button{
+	margin-left: 30px;
+}
+.hdr{
+	margin left: 10px;
 }
