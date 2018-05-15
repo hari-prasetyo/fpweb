@@ -2,10 +2,10 @@
 	color: #fff;
 }
 body{
-	background-image: url("./img/body1.jpg");
-	/*background-repeat: no-repea*/
+	background-color: grey; 
+	/*opacity: 0.5;*/
 	width: 100%;
-	height:100%;
+	height:100vh;
 }
 .bgrn{
 	background-image: url("./img/log.jpg");
@@ -38,6 +38,6 @@ body{
 	margin-right: 10px;
 }
 .pos{
-	padding-left: 70px;  
+	padding-left: 90px;  
 	}
 
