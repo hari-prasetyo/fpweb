@@ -40,4 +40,17 @@ body{
 .pos{
 	padding-left: 90px;  
 	}
+@media	screen and (max-width: 400px){
+	.img1{
+		height: 20px;
+		width: 50px;
+	}
+	.inp1{
+		height: 20px;
+		width: 50px;	
+	}
+} 
+#slider{
+	
+}
 
